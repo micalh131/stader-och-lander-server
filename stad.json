@@ -1,0 +1,78 @@
+[
+    {
+        "id": 1,
+        "stadname": "Stockholm",
+        "countryid": 0,
+        "population": 1538517
+    },{
+        "id": 2,
+        "stadname": "Turku",
+        "countryid": 1,
+        "population": 269057
+    },{
+        "id": 3,
+        "stadname": "Norköping",
+        "countryid": 0,
+        "population": 95618
+    },{
+        "id": 4,
+        "stadname": "Fredrikstad",
+        "countryid": 2,
+        "population": 109907
+    },{
+        "id": 5,
+        "stadname": "Trondheim",
+        "countryid": 2,
+        "population": 177617
+    },{
+        "id": 6,
+        "stadname": "Göteborg",
+        "countryid": 0,
+        "population": 581822
+    },{
+        "id": 7,
+        "stadname": "Västerås",
+        "countryid": 0,
+        "population": 119373
+    },{
+        "id": 8,
+        "stadname": "Tampere",
+        "countryid": 1,
+        "population": 330711
+    },{
+        "id": 9,
+        "stadname": "Bergen",
+        "countryid": 2,
+        "population": 252772
+    },{
+        "id": 10,
+        "stadname": "Malmö",
+        "countryid": 0,
+        "population": 307496
+    },{
+        "id": 11,
+        "stadname": "Oslo",
+        "countryid": 2,
+        "population": 975744
+    },{
+        "id": 12,
+        "stadname": "Helsingfors",
+        "countryid": 1,
+        "population": 1249820
+    },{
+        "id": 13,
+        "stadname": "Oulu",
+        "countryid": 1,
+        "population": 198358
+    },{
+        "id": 14,
+        "stadname": "Uppsala",
+        "countryid": 0,
+        "population": 152617
+    },{
+        "id": 15,
+        "stadname": "Jyväskylä",
+        "countryid": 1,
+        "population": 121782
+    }
+]
